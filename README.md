@@ -1,6 +1,6 @@
-# ai-price-fetcher
+# AI Price Fetch Tool
 
-# 🔐 Bearer Token Authentication
+## 🔐 Bearer Token Authentication
 
 ### 🔸 How It Works
 1. **Whitelisted Emails**  
@@ -26,7 +26,7 @@
 
 ---
 
-# ⚡ In-Memory Caching
+## ⚡ In-Memory Caching
 
 ### ✅ Features
 - **Automatic TTL**: Results cached for **30 minutes** by default  
@@ -38,7 +38,7 @@
 
 ---
 
-# 🛡️ Security Features
+## 🛡️ Security Features
 
 - ⏳ **Token Expiration**: Default **24 hours** (`TOKEN_TTL`)  
 - ✅ **Email Whitelisting**: Only approved emails can request tokens  
@@ -47,7 +47,7 @@
 
 ---
 
-# 📝 Environment Variables
+## 📝 Environment Variables
 
 ```bash
 # Required for authentication
@@ -61,7 +61,7 @@ OPENAI_API_KEY="your-openai-key"
 
 ---
 
-# 🚀 API Endpoints
+## 🚀 API Endpoints
 
 | Method | Endpoint            | Description                      | Auth Required |
 |--------|---------------------|----------------------------------|---------------|
@@ -73,7 +73,7 @@ OPENAI_API_KEY="your-openai-key"
 
 ---
 
-# 📊 Benefits
+## 📊 Benefits
 
 - ⚡ **Performance**: Cached results return instantly  
 - 📉 **Rate Limiting**: Reduces dependency on external requests  
