@@ -30,7 +30,7 @@ The script:
 
 ---
 
-## 🧪 Example Input
+## 🧪 Example Output
 
 ```json
 [
@@ -45,3 +45,11 @@ The script:
     }
   }
 ]
+```
+
+https://github.com/user-attachments/assets/5c9dd8d6-e03f-4ab7-9039-b6c19f619988
+
+> EXTENSIVE SWAGER DOCUMENTATION CAN BE FOUND: https://ai-price-fetcher.vercel.app/docs  
+> NOTE: Added a simple Bearer Token auth just to save face(lol) - please dont miss this step
+
+
