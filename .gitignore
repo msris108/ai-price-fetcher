@@ -1,3 +1,4 @@
 ai-search/
 .vercel
 .env
+.DS_STORE
